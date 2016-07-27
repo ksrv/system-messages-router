@@ -2,7 +2,7 @@ Package.describe({
   name: 'ksrv:system-messages-router',
   version: '0.0.1',
   summary: 'Save cuurent URL from iron:router to system message.',
-  git: '',
+  git: 'https://github.com/ksrv/system-messages-router.git',
   documentation: 'README.md'
 });
 
